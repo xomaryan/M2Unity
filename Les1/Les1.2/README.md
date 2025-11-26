@@ -2,10 +2,10 @@
 ## Beschrijving
 Deze les heb ik herhaald de belangrijke programmeerconcepten in de context van Unity en C#. 
 ## Wat heb ik gemaakt.
-- Ik heb een nieuw C# script gemaakt waarin 10 verschillende items als string opgeslagen kunnen worden.
-- Ik heb dat beschikbaar gemaakt in Unity met behulp van ```[SerializeField].``` 
-- Daarna heb ik een functie gemaakt die willekeurug 1 van deze 10 items op de console print als ik op "Enter" drukt.
-- Ook heb ik een functie gemaakt die alle items print in de console als ik op de Escape drukt.
+- Ik heb een nieuw C#-script gemaakt waarin tien verschillende items als string kunnen worden opgeslagen.
+- Ik heb het in Unity beschikbaar gemaakt met behulp van ```[SerializeField].``` 
+- Daarna heb ik een functie gemaakt die willekeurug één van deze tien items in de console print wanneer ik op "Enter" druk.
+- Ook heb ik een functie gemaakt die alle items in de console print wanneer ik op de "Escape" druk.
 ## Demo
 ![Les1.2](1.2.gif)
 ## Code 
