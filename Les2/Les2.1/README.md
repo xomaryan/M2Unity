@@ -8,7 +8,7 @@ Ik heb een Unity scene gemaakt waarin de bal met AddForce wordt afgeschoten. Tar
 ## Demo
 ![Les2.1](2.1Unity.gif)
 ## Code (voor ShootBal)
-``` code
+``` Csharp
 public class ShootBal : MonoBehaviour
 {
     public float ShootForce = 500f;
@@ -32,7 +32,7 @@ public class ShootBal : MonoBehaviour
 }
 ```
 ## Code (voor TargetCollision)
-```code
+```Csharp
 using UnityEngine;
 
 public class TargetCollision : MonoBehaviour

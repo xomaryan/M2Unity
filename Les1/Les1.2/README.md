@@ -9,7 +9,7 @@ Deze les heb ik herhaald de belangrijke programmeerconcepten in de context van U
 ## Demo
 ![Les1.2](1.2.gif)
 ## Code 
-```code
+```Csharp
 using UnityEngine;
 
 public class RandomItems : MonoBehaviour
